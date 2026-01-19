@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../Code"
+		},
+		{
+			"path": "../../git.hub-project-JS30"
+		},
+		{
+			"path": "../AJAX"
+		},
+		{
+			"path": "../TS"
+		},
+		{
+			"path": "../hello_vue3"
+		},
+		{
+			"path": "../../34303/ant-design-landing/ant-design-landing-master"
+		},
+		{
+			"path": "../CommonJS规范"
+		},
+		{
+			"path": "../ES6规范"
+		},
+		{
+			"path": "../JS深化"
+		},
+		{
+			"path": "../js-examples-main"
+		},
+		{
+			"path": "../vue3_vite_ts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ES6规范",
+		"vue.autoInsert.dotValue": true
+	}
+}
